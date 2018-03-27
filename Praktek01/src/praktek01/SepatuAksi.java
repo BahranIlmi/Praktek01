@@ -32,5 +32,9 @@ public class SepatuAksi {
         Adidas.Kualitas="Original";
         Adidas.UkuranSepatu="41";
         Adidas.TempatPembuatan="Indonesia";
+        
+        Vans.InfoSepatu();
+        Nike.InfoSepatu();
+        Adidas.InfoSepatu();
     }
 }
