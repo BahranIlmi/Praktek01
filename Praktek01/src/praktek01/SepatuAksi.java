@@ -14,5 +14,23 @@ public class SepatuAksi {
         Sepatu Vans = new Sepatu();
         Sepatu Nike = new Sepatu();
         Sepatu Adidas = new Sepatu();
+        
+        Vans.JenisSepatu="Sneakers";
+        Vans.Warna="Hitam";
+        Vans.Kualitas="Original";
+        Vans.UkuranSepatu="40";
+        Vans.TempatPembuatan="China";
+        
+        Nike.JenisSepatu="Running";
+        Nike.Warna="Navy";
+        Nike.Kualitas="Premium";
+        Nike.UkuranSepatu="39";
+        Nike.TempatPembuatan="Vietnam";
+        
+        Adidas.JenisSepatu="Boots";
+        Adidas.Warna="Coklat";
+        Adidas.Kualitas="Original";
+        Adidas.UkuranSepatu="41";
+        Adidas.TempatPembuatan="Indonesia";
     }
 }
